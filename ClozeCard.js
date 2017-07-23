@@ -31,37 +31,3 @@ console.log(cardThree.partial);
 
 module.exports = ClozeCard;
 
-// var flashcard = function() {
-//     inquirer.prompt([
-//       {
-//         name: "Question 1",
-//         message: " "
-//       }, {
-//         name: "Question 2",
-//         message: " "
-//       }, {
-//         name: "Question 3",
-//         message: " ",
-//       }, {
-//         name: "Question 4",
-//         message: " ",
-//       }, {
-//         name: "Question 5",
-//         message: " "
-//       }, {
-//         name: "Question 6",
-//         message: " "
-//       }, {
-//         name: "Question 7",
-//         message: " ",
-//       }, {
-//         name: "Question 8",
-//         message: " ",
-//       }
-//     ]).then(function(answers) {
-      
-//       var creatClozeCard = new ClozeCard(answers.name, answers.position, parseInt(answers.offense), parseInt(answers.defense));
-      
-//       createPlayer();
-//     });
-// }
