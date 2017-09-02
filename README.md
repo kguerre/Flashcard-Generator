@@ -1,7 +1,6 @@
 # Flashcard-Generator
-Homework 11
 
-# Advanced JavaScript Assignment: Cloze Constructors
+# Cloze Constructors
 
 ### Overview
 
